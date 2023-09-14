@@ -1,5 +1,5 @@
 {
-  "homepage": "https://khaled87ahmed.github.io/Nutflix-App",
+  "homepage": "https://khaled87ahmed.github.io/Nutflix-App/",
   "name": "movie-app",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "vite build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
