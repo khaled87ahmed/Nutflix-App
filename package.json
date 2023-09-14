@@ -1,4 +1,5 @@
 {
+  "homepage": "https://khaled87ahmed.github.io/Nutflix-App/",
   "name": "movie-app",
   "private": true,
   "version": "0.0.0",
@@ -6,7 +7,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
@@ -16,6 +19,7 @@
     "bootstrap": "^5.2.3",
     "formik": "^2.4.4",
     "framer-motion": "^7.6.19",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
