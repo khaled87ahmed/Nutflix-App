@@ -73,7 +73,7 @@ If you have any questions or need assistance, please feel free to contact us at 
 
 Thank you for using Nutflix MovieWebApp! Enjoy exploring movies and TV shows.
 
-## Overview
+## Documentation
 
-[Download Example PDF](https://github.com/khaled87ahmed/Nutflix-App/blob/main/iti-final-project.pdf)
+[Download Documentation PDF](https://github.com/khaled87ahmed/Nutflix-App/blob/main/iti-final-project.pdf)
 
