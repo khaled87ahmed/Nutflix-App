@@ -72,3 +72,8 @@ Open your web browser and navigate to http://localhost:5173/ to access the Nutfl
 If you have any questions or need assistance, please feel free to contact us at khaledahmed872003@gmail.com.
 
 Thank you for using Nutflix MovieWebApp! Enjoy exploring movies and TV shows.
+
+## Overview
+
+[Download Example PDF](https://github.com/khaled87ahmed/Nutflix-App/blob/main/iti-final-project.pdf)
+
